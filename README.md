@@ -7,11 +7,11 @@ alexusMailer 2.* - sendmail anonymous mailing script.
 
 [Documentation Online](http://mailer.a-l-e-x-u-s.ru/en/faq/) (TODO: must be moved to github)
 
-[Documentation PDF](FAQ_v2.0.5.en.pdf)
+[Documentation PDF](../../raw/master/FAQ_v2.0.5.en.pdf)
 
 [Demonstration service, sending is disabled](http://mailer.a-l-e-x-u-s.ru/en/demo/)
 
-###[Download](alexusMailer_latest.zip)
+###[Download](../../raw/master/alexusMailer_latest.zip)
 Old version (1.*) can be found [here](https://github.com/AlexusBlack/alexusMailer-1)
 
 ####Functionality:
@@ -49,11 +49,11 @@ Old version (1.*) can be found [here](https://github.com/AlexusBlack/alexusMaile
 
 [Документация Онлайн](http://mailer.a-l-e-x-u-s.ru/faq/) (TODO: надо перенести на github)
 
-[Документация PDF](FAQ_v2.0.5.ru.pdf)
+[Документация PDF](../../raw/master/FAQ_v2.0.5.ru.pdf)
 
 [Демонстрационный сервис, отправка отключена](http://mailer.a-l-e-x-u-s.ru/en/demo/)
 
-###[Скачать](alexusMailer_latest.zip)
+###[Скачать](../../raw/master/alexusMailer_latest.zip)
 Старую версию (1.*) можно найти [тут](https://github.com/AlexusBlack/alexusMailer-1)
 
 ####Функционал:
